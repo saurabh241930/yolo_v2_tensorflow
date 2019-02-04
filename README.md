@@ -10,3 +10,7 @@ test case:
 ## Input 
 
 <img src="https://i.imgur.com/WH5LngA.jpg"/>
+
+## Output
+
+<img src="https://i.imgur.com/Q4kPYFE.jpg"/>
